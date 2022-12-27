@@ -1,0 +1,11 @@
+name: NeoLobbySystem
+version: '${project.version}'
+main: net.neounity.neolobbysystem.NeoLobbySystem
+api-version: 1.19
+depend: [ NeoWarpAPI ]
+authors: [ SimonDE2107 ]
+description: Unser LobbySystem
+website: neounity.net
+
+commands:
+  set:
